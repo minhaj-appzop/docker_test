@@ -1,4 +1,4 @@
 #!/bin/sh
 echo hello
-echo testing
-exit 0
+echo testing1
+exit 1
