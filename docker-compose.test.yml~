@@ -6,3 +6,5 @@ services:
     build: test
     links:
       - daapd
+    volumes:
+      - ./test/results:/results
